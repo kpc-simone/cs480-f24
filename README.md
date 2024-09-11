@@ -16,8 +16,10 @@ The suggested readings make use of the following abbreviations to refer to textb
 | 1          | Halfspaces & Perceptron      | [Slides](lectures/01_halfspaces_perceptron.pdf)<br>[Perceptron Video](https://youtu.be/Bf6qu2tb8TE?si=kNGngvLevms1EG-t) | UML Section 9.1<br>ESL Section 4.5<br>[Yaoliang Yu's Lecture Notes](https://cs.uwaterloo.ca/~y328yu/mycourses/480-2022f/480-note-perceptron.pdf)<br>[Varun Kanade's Lecture Notes](https://www.cs.ox.ac.uk/people/varun.kanade/teaching/AML-HT2017/lectures/mistakebound-online.pdf) |
 
 ### :mag: Assignments
+The four assignments will be posted here.
+
 | ASSIGNMENT    | MATERIALS | 
 | ------------- | ------------------- |
 | 1             | [Assignment 1](assignments/a1) |
-The four assignments will be posted here.
+
 
