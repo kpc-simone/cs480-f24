@@ -16,7 +16,7 @@ The suggested readings make use of the following abbreviations to refer to textb
 | ---------- | ----------------- |--------------- | --------- |
 | 0          | Logistics & Introduction     | [Slides](lectures/00_introduction.pdf) | N/A       |
 | 1          | Halfspaces & Perceptron      | [Slides](lectures/01_halfspaces_perceptron.pdf)<br>[Perceptron Video](https://youtu.be/Bf6qu2tb8TE?si=kNGngvLevms1EG-t) | UML Section 9.1<br>ESL Section 4.5<br>[Yaoliang Yu's Lecture Notes](https://cs.uwaterloo.ca/~y328yu/mycourses/480-2022f/480-note-perceptron.pdf)<br>[Varun Kanade's Lecture Notes](https://www.cs.ox.ac.uk/people/varun.kanade/teaching/AML-HT2017/lectures/mistakebound-online.pdf) |
-| 2          | Regression  | [Slides](lectures/01_halfspaces_perceptron.pdf)              | UML Section 9.2, 11.2<br>ESL Section 3.2, 3.4, 7.10<br>ISL Sections 3.1-3.2, 5.1, 6.2
+| 2          | Regression  | [Slides](lectures/01_linear_regression.pdf)              | UML Section 9.2, 11.2<br>ESL Section 3.2, 3.4, 7.10<br>ISL Sections 3.1-3.2, 5.1, 6.2
 
 ### :mag: Assignments
 The four assignments will be posted here.
