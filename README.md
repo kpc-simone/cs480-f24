@@ -14,9 +14,9 @@ The suggested readings make use of the following abbreviations to refer to textb
 
 | LECTURE    | TITLE             | MATERIALS      |  SUPPLEMENTARY READINGS |
 | ---------- | ----------------- |--------------- | --------- |
-| 0          | Logistics & Introduction     | [Slides](lectures/00_introduction.pdf)<br>[Video](https://youtu.be/UpYhHUnzFDQ) | N/A       |
+| 0          | Logistics & Introduction     | [Slides](lectures/00_introduction.pdf)<br>[Video Lecture](https://youtu.be/UpYhHUnzFDQ) | N/A       |
 | 1          | Halfspaces & The Perceptron Algorithm     | [Slides](lectures/01_halfspaces_perceptron.pdf)<br>[Video Lecture](https://youtu.be/lpgRhhzjncA?si=PO6lRbo3VUIoPW3l)<br>[Perceptron Video](https://youtu.be/Bf6qu2tb8TE?si=kNGngvLevms1EG-t) | UML Section 9.1<br>ESL Section 4.5<br>[Yaoliang Yu's Lecture Notes](https://cs.uwaterloo.ca/~y328yu/mycourses/480-2022f/480-note-perceptron.pdf)<br>[Varun Kanade's Lecture Notes](https://www.cs.ox.ac.uk/people/varun.kanade/teaching/AML-HT2017/lectures/mistakebound-online.pdf) |
-| 2          | Linear Regression & Loss Function Design | [Slides](lectures/02_linear_regression.pdf)             | UML Section 9.2, 11.2<br>ESL Section 3.2, 3.4, 7.10<br>ISL Sections 3.1-3.2, 5.1, 6.2<br>[Gautam Kamath's video on Rewriting Loss Functions](https://youtu.be/oR4NqeaCi34?si=_4r_NbpxT76LbmmD&t=1998)
+| 2          | Linear Regression & Loss Function Design | [Slides](lectures/02_linear_regression.pdf)<br>[Video Lecture](https://youtu.be/pJ05fO5CTvw?si=W8mqJ3jYPB_CsEOm)             | UML Section 9.2, 11.2<br>ESL Section 3.2, 3.4, 7.10<br>ISL Sections 3.1-3.2, 5.1, 6.2<br>[Gautam Kamath's video on Rewriting Loss Functions](https://youtu.be/oR4NqeaCi34?si=_4r_NbpxT76LbmmD&t=1998)
 
 ### :mag: Assignments
 The four assignments will be posted here.
