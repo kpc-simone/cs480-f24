@@ -25,7 +25,7 @@ The suggested readings make use of the following abbreviations to refer to textb
 | 4          | Non-Parametric Methods: KDE, k-NN, and K-Means | [Slides](lectures/04_nonparametric_methods.pdf)<br>[Video Lecture](https://youtu.be/dN8buKnltEc?si=jf1-fOsjJ_gy12wQ) | UML Section 19, 22.2<br>ESL Section 2.3.2, 6.6.1, 13.3, 14.3<br>ISL 2.2, 12.4.1 |
 | 5          | Logistic Regression and Numerical Optimization | [Slides](lectures/05_logistic_regression.pdf) | UML Section 9.3<br>ESL Section 4.4<br>ISL 4.3<br> PML 10-10.2.3<br>PRML 4.3.2 |
 | 6          | Maximum Margin Classifier and Constrained Optimization | [Slides](lectures/06_support_vector_machines.pdf) | UML Section 15.1<br>ESL Section 4.5.2<br>ISL Section 9.1<br>PML Section 8.5, Section 17.3-17.3.2<br>PRML Section 7.1 (not including 7.1.1)|
-| 7          | Soft Margin Classifier | Slides TBD | UML Section 15.2,15.5<br>ESL Section 12.1-12.3.2<br>ISL Section 9.2-9.3<br>PML Section 17.3.3-17.3.4<br>PRML Section 3.1.0,6.1-6.2,7.1.1|
+| 7          | Soft Margin Classifier | [Slides](lectures/07_svm2_soft_margin.pdf) | UML Section 15.2,15.5<br>ESL Section 12.1-12.3.2<br>ISL Section 9.2-9.3<br>PML Section 17.3.3-17.3.4<br>PRML Section 3.1.0,6.1-6.2,7.1.1|
 
 ### :mag: Assignments
 The four assignments will be posted here.
