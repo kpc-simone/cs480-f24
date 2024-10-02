@@ -46,8 +46,8 @@ The four assignments will be posted here.
 
 | ASSIGNMENT    | MATERIALS           | Posted   | Due Date |
 | ------------- | ------------------- | -------- | -------- |
-| 1             | [Assignment 1](assignments/a1) | 11 September 2024 |27 September 2024 |
-| 2             | [Assignment 2](assignments/a2) | ~~18 October 2024~~<br>21 October 2024 |
+| 1             | [Assignment 1](assignments/a1) | 11 September 2024 | 27 September 2024 |
+| 2             | [Assignment 2](assignments/a2) | 30 September 2024 | ~~18 October 2024~~<br>21 October 2024 |
 | 3             | TBD | 22 October 2024 (tentative) | 8 November 2024 (tentative) |
 | 4             | TBD | 12 November 2024 (tentative) | 22 November 2024 (tentative) |
 
