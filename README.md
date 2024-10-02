@@ -2,7 +2,7 @@
 Fall 2024, University of Waterloo
 
 ### :bulb: Lectures
-Lecture slides and video lectures (recorded offline) will be linked here.
+Lecture slides and video lectures (recorded offline) will be linked here. Please note that the topics given for future lectures are tentative.
 
 The suggested readings make use of the following abbreviations to refer to textbook sources:
 
@@ -25,21 +25,22 @@ The suggested readings make use of the following abbreviations to refer to textb
 | 4          | Non-Parametric Methods: KDE, k-NN, and K-Means | [Slides](lectures/04_nonparametric_methods.pdf)<br>[Video Lecture](https://youtu.be/dN8buKnltEc?si=jf1-fOsjJ_gy12wQ) | UML Section 19, 22.2<br>ESL Section 2.3.2, 6.6.1, 13.3, 14.3<br>ISL 2.2, 12.4.1 |
 | 5          | Logistic Regression and Numerical Optimization | [Slides](lectures/05_logistic_regression.pdf)<br>[Video Lecture](https://youtu.be/LJBRT0c2I58?si=AAm7on8mOawXo_rI) | UML Section 9.3<br>ESL Section 4.4<br>ISL 4.3<br> PML 10-10.2.3<br>PRML 4.3.2 |
 | 6          | Maximum Margin Classifier and Constrained Optimization | [Slides](lectures/06_svm1_max_margin_classifier.pdf)<br>[Video Lecture](https://youtu.be/gcd939yYlUE?si=j06RHOsSXDGGNsME) | UML Section 15.1<br>ESL Section 4.5.2<br>ISL Section 9.1<br>PML Section 8.5, Section 17.3-17.3.2<br>PRML Section 7.1 (not including 7.1.1)|
-| 7          | Soft Margin Classifier | [Slides](lectures/07_svm2_soft_margin.pdf) | UML Section 15.2,15.5<br>ESL Section 12.1-12.3.2<br>ISL Section 9.2-9.3<br>PML Section 17.3.3-17.3.4<br>PRML Section 3.1.0,6.1-6.2,7.1.1|
-| 8          | Kernel Methods | Slides TBD |   |
+| 7          | Soft Margin Classifier | [Slides](lectures/07_svm2_soft_margin.pdf) | UML Section 15.2,15.5<br>ESL Section 12.1-12.3.2<br>ISL Section 9.2-9.3<br>PML Section 17.3.3-17.3.4<br>PRML Section 7.1.1|
+| 8          | Kernel Methods | Slides TBD | PRML Section 6.1-6.3, 3-3.1.0<br>UML Section 16<br>ESL Section 5.8<br>PML Section 17.1<br>ISL Section 7-7.3  |
 | 9          | Decision Trees | Slides TBD |   |
-| 10         | Expectation Maximization | Slides TBD |   |
-| 11         | Multilayer Perceptrons and Fully Connected Neural Networks | Slides TBD |   |
-| 12         | Convolutional Neural Networks | Slides TBD |   |
-| 13         | Recurrent Neural Networks | Slides TBD |   |
-| 14         | Attention and Transformers | Slides TBD |   |
-| 15         | Graph Neural Networks (Time Permitting) | Slides TBD |   |
-| 16         | Variational Autoencoders and Generative Adversarial Networks | Slides TBD |   |
-| 17         | Flows | Slides TBD |   |
-| 18         | Contrastive Learning (Time Permitting) | Slides TBD |   |
-| 19         | Robustness <br> (Guest Lecture from Dr. P. Michael Furlong) | Slides TBD |   |
-| 20         | Privacy <br> (Guest Lecture from Saber Malekmohammadi) | Slides TBD |   |
-| 21         | Fairness | Slides TBD |   |
+| 10         | Bagging and Boosting | Slides TBD |   |
+| 11         | Expectation Maximization | Slides TBD |   |
+| 12         | Multilayer Perceptrons and Fully Connected Neural Networks | Slides TBD |   |
+| 13         | Convolutional Neural Networks | Slides TBD |   |
+| 14         | Recurrent Neural Networks | Slides TBD |   |
+| 15         | Attention and Transformers | Slides TBD |   |
+| 16         | Graph Neural Networks (Time Permitting) | Slides TBD |   |
+| 17         | Variational Autoencoders and Generative Adversarial Networks | Slides TBD |   |
+| 18         | Flows | Slides TBD |   |
+| 19         | Contrastive Learning (Time Permitting) | Slides TBD |   |
+| 20         | Robustness <br> (Guest Lecture from Dr. P. Michael Furlong) | Slides TBD |   |
+| 21         | Privacy <br> (Guest Lecture from Saber Malekmohammadi) | Slides TBD |   |
+| 22         | Fairness | Slides TBD |   |
 
 ### :mag: Assignments
 The four assignments will be posted here.
