@@ -26,7 +26,7 @@ The suggested readings make use of the following abbreviations to refer to textb
 | 5          | Logistic Regression and Numerical Optimization | [Slides](lectures/05_logistic_regression.pdf)<br>[Video Lecture](https://youtu.be/LJBRT0c2I58?si=AAm7on8mOawXo_rI) | UML Section 9.3<br>ESL Section 4.4<br>ISL 4.3<br> PML 10-10.2.3<br>PRML 4.3.2 |
 | 6          | Maximum Margin Classifier and Constrained Optimization | [Slides](lectures/06_svm1_max_margin_classifier.pdf)<br>[Video Lecture](https://youtu.be/gcd939yYlUE?si=j06RHOsSXDGGNsME) | UML Section 15.1<br>ESL Section 4.5.2<br>ISL Section 9.1<br>PML Section 8.5, Section 17.3-17.3.2<br>PRML Section 7.1 (not including 7.1.1)|
 | 7          | Soft Margin Classifier | [Slides](lectures/07_svm2_soft_margin.pdf) | UML Section 15.2,15.5<br>ESL Section 12.1-12.3.2<br>ISL Section 9.2-9.3<br>PML Section 17.3.3-17.3.4<br>PRML Section 7.1.1|
-| 8          | Kernel Methods | Slides TBD | PRML Section 6.1-6.3, 3-3.1.0<br>UML Section 16<br>ESL Section 5.8<br>PML Section 17.1<br>ISL Section 7-7.3  |
+| 8          | Kernel Methods | [Slides](lectures/08_kernel_methods.pdf) | PRML Section 6.1-6.3, 3-3.1.0<br>UML Section 16<br>ESL Section 5.8<br>PML Section 17.1<br>ISL Section 7-7.3  |
 | 9          | Decision Trees | Slides TBD |   |
 | 10         | Bagging and Boosting | Slides TBD |   |
 | 11         | Expectation Maximization | Slides TBD |   |
