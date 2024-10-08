@@ -27,20 +27,7 @@ The suggested readings make use of the following abbreviations to refer to textb
 | 6          | Maximum Margin Classifier and Constrained Optimization | [Slides](lectures/06_svm1_max_margin_classifier.pdf)<br>[Video Lecture](https://youtu.be/gcd939yYlUE?si=j06RHOsSXDGGNsME) | UML Section 15.1<br>ESL Section 4.5.2<br>ISL Section 9.1<br>PML Section 8.5, Section 17.3-17.3.2<br>PRML Section 7.1 (not including 7.1.1)|
 | 7          | Soft Margin Classifier | [Slides](lectures/07_svm2_soft_margin.pdf) | UML Section 15.2,15.5<br>ESL Section 12.1-12.3.2<br>ISL Section 9.2-9.3<br>PML Section 17.3.3-17.3.4<br>PRML Section 7.1.1|
 | 8          | Kernel Methods | [Slides](lectures/08_kernel_methods.pdf) | PRML Section 6.1-6.3, 3-3.1.0<br>UML Section 16<br>ESL Section 5.8<br>PML Section 17.1<br>ISL Section 7-7.3  |
-| 9          | Decision Trees | Slides TBD |   |
-| 10         | Bagging and Boosting | Slides TBD |   |
-| 11         | Expectation Maximization | Slides TBD |   |
-| 12         | Multilayer Perceptrons and Fully Connected Neural Networks | Slides TBD |   |
-| 13         | Convolutional Neural Networks | Slides TBD |   |
-| 14         | Recurrent Neural Networks | Slides TBD |   |
-| 15         | Attention and Transformers | Slides TBD |   |
-| 16         | Graph Neural Networks (Time Permitting) | Slides TBD |   |
-| 17         | Variational Autoencoders and Generative Adversarial Networks | Slides TBD |   |
-| 18         | Flows | Slides TBD |   |
-| 19         | Contrastive Learning (Time Permitting) | Slides TBD |   |
-| 20         | Robustness <br> (Guest Lecture from Dr. P. Michael Furlong) | Slides TBD |   |
-| 21         | Privacy <br> (Guest Lecture from Saber Malekmohammadi) | Slides TBD |   |
-| 22         | Fairness | Slides TBD |   |
+| 9          | Bayesian Inference | [Slides](lectures/09a_bayesian_inference) | PRML Section 3.1,3.3  |
 
 ### :mag: Assignments
 The four assignments will be posted here.
