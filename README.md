@@ -29,7 +29,7 @@ The suggested readings make use of the following abbreviations to refer to textb
 | 8          | 03/10/2024 | Kernel Methods | [Slides](lectures/08_kernel_methods.pdf) | PRML Section 6.1-6.3, 3-3.1.0<br>UML Section 16<br>ESL Section 5.8<br>PML Section 17.1<br>ISL Section 7-7.3  |
 | 9a          | 08/10/2024 | Bayesian Inference | [Slides](lectures/09a_bayesian_inference) | PRML Section 3.1,3.3  |
 | 9b          | 10/10/2024 | Gaussian Processes | Slides TBD | PRML Section 6.4<br>PML Section 17.2 |
-| 10          | 10/10/2024 | Decision Trees | [Slides](lectures/10_decision_trees) | ESL Section 9.2<br>ISL Section 8.1<>UML Section 10 |
+| 10          | 10/10/2024 | Decision Trees | [Slides](lectures/10_decision_trees) | ESL Section 9.2<br>ISL Section 8.1<br>UML Section 10 |
 
 ### :mag: Assignments
 The four assignments will be posted here.
