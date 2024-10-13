@@ -27,8 +27,8 @@ The suggested readings make use of the following abbreviations to refer to textb
 | 6          | 26/09/2024 | Maximum Margin Classifier and Constrained Optimization | [Slides](lectures/06_svm1_max_margin_classifier.pdf)<br>[Video Lecture](https://youtu.be/gcd939yYlUE?si=j06RHOsSXDGGNsME) | UML Section 15.1<br>ESL Section 4.5.2<br>ISL Section 9.1<br>PML Section 8.5, Section 17.3-17.3.2<br>PRML Section 7.1 (not including 7.1.1)|
 | 7          | 01/10/2024 | Soft Margin Classifier | [Slides](lectures/07_svm2_soft_margin.pdf)<br>[Video Lecture](https://youtu.be/xVw-sHGxFKw?si=4a6NziwLMjmpJYD1) | UML Section 15.2,15.5<br>ESL Section 12.1-12.3.2<br>ISL Section 9.2-9.3<br>PML Section 17.3.3-17.3.4<br>PRML Section 7.1.1|
 | 8          | 03/10/2024 | Kernel Methods | [Slides](lectures/08_kernel_methods.pdf)<br>[Video Lecture](https://youtu.be/AGG9KtbmS4Y?si=ysTwR4tclU7fbXg-) | PRML Section 6.1-6.3, 3-3.1.0<br>UML Section 16<br>ESL Section 5.8<br>PML Section 17.1<br>ISL Section 7-7.3  |
-| 9a          | 08/10/2024 | Bayesian Inference | [Slides](lectures/09a_bayesian_inference) | PRML Section 3.1,3.3  |
-| 9b          | 10/10/2024 | Gaussian Processes | [Slides](lectures/09b_gaussian_processes.pdf) | PRML Section 6.4<br>PML Section 17.2 |
+| 9a          | 08/10/2024 | Bayesian Inference | [Slides](lectures/09a_bayesian_inference)<br>[Video Lecture](https://youtu.be/TW1Qw1VIQWc) | PRML Section 3.1,3.3  |
+| 9b          | 10/10/2024 | Gaussian Processes | [Slides](lectures/09b_gaussian_processes.pdf)<br>[Video Lecture](https://youtu.be/NwuvpJkl83M)<br>[Sampling Animation](lecture/9b_sampling_animation.gif) | PRML Section 6.4<br>PML Section 17.2 |
 | 10          | 10/10/2024 | Decision Trees | [Slides](lectures/10_decision_trees.pdf) | ESL Section 9.2<br>ISL Section 8.1<br>UML Section 10 |
 
 ### :mag: Assignments
