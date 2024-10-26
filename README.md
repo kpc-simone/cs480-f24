@@ -2,7 +2,7 @@
 Fall 2024, University of Waterloo
 
 ### :bulb: Lectures
-Lecture slides and video lectures (recorded offline) will be linked here. Please note that the topics given for future lectures are tentative.
+Lecture slides and video lectures (recorded offline) will be linked here. Please note that the topics and schedule for all future lectures are tentative.
 
 The suggested readings make use of the following abbreviations to refer to textbook sources:
 
@@ -27,12 +27,21 @@ The suggested readings make use of the following abbreviations to refer to textb
 | 6          | 26/09/2024 | Maximum Margin Classifier and Constrained Optimization | [Slides](lectures/06_svm1_max_margin_classifier.pdf)<br>[Video Lecture](https://youtu.be/gcd939yYlUE?si=j06RHOsSXDGGNsME) | UML Section 15.1<br>ESL Section 4.5.2<br>ISL Section 9.1<br>PML Section 8.5, Section 17.3-17.3.2<br>PRML Section 7.1 (not including 7.1.1)|
 | 7          | 01/10/2024 | Soft Margin Classifier | [Slides](lectures/07_svm2_soft_margin.pdf)<br>[Video Lecture](https://youtu.be/xVw-sHGxFKw?si=4a6NziwLMjmpJYD1) | UML Section 15.2,15.5<br>ESL Section 12.1-12.3.2<br>ISL Section 9.2-9.3<br>PML Section 17.3.3-17.3.4<br>PRML Section 7.1.1|
 | 8          | 03/10/2024 | Kernel Methods | [Slides](lectures/08_kernel_methods.pdf)<br>[Video Lecture](https://youtu.be/AGG9KtbmS4Y?si=ysTwR4tclU7fbXg-) | PRML Section 6.1-6.3, 3-3.1.0<br>UML Section 16<br>ESL Section 5.8<br>PML Section 17.1<br>ISL Section 7-7.3  |
-| 9a          | 08/10/2024 | Bayesian Inference | [Slides](lectures/09a_bayesian_inference)<br>[Video Lecture](https://youtu.be/TW1Qw1VIQWc) | PRML Section 3.1,3.3  |
-| 9b          | 10/10/2024 | Gaussian Processes | [Slides](lectures/09b_gaussian_processes.pdf)<br>[Video Lecture](https://youtu.be/NwuvpJkl83M)<br>[Sampling Animation](lectures/9b_sampling_animation.gif) | PRML Section 6.4<br>PML Section 17.2 |
-| 10          | 10/10/2024 | Decision Trees | [Slides](lectures/10_decision_trees.pdf)<br>[Video Lecture](https://youtu.be/2B-o3uB4OwI) | ESL Section 9.2<br>ISL Section 8.1<br>UML Section 10 |
-| 11          | 10/22/2024 | Ensemble Methods | [Slides](lectures/11_ensemble_methods.pdf) | PRML Section 3.2, 14<br>PML Section 18<br> ESL Section 7.1-7.3, 8.2, 8.7, 10.2, 10.10<br>ISL Section 8.1-8.2 |
-| 12          | 10/24/2024 | Expectation Maximization & Gaussian Mixture Models | [Slides](lectures/12_expectation_maximization.pdf) | PML Section 8.6<br>ESL Section 8.5<br>PRML Section 9.1-9.5<br>UML Section 24.4 |
-
+| 9a         | 08/10/2024 | Bayesian Inference | [Slides](lectures/09a_bayesian_inference)<br>[Video Lecture](https://youtu.be/TW1Qw1VIQWc) | PRML Section 3.1,3.3  |
+| 9b         | 10/10/2024 | Gaussian Processes | [Slides](lectures/09b_gaussian_processes.pdf)<br>[Video Lecture](https://youtu.be/NwuvpJkl83M)<br>[Sampling Animation](lectures/9b_sampling_animation.gif) | PRML Section 6.4<br>PML Section 17.2 |
+| 10         | 10/10/2024 | Decision Trees | [Slides](lectures/10_decision_trees.pdf)<br>[Video Lecture](https://youtu.be/2B-o3uB4OwI) | ESL Section 9.2<br>ISL Section 8.1<br>UML Section 10 |
+| 11         | 10/22/2024 | Ensemble Methods | [Slides](lectures/11_ensemble_methods.pdf) | PRML Section 3.2, 14<br>PML Section 18<br> ESL Section 7.1-7.3, 8.2, 8.7, 10.2, 10.10<br>ISL Section 8.1-8.2 |
+| 12         | 10/24/2024 | Expectation Maximization & Gaussian Mixture Models | [Slides](lectures/12_expectation_maximization.pdf) | PML Section 8.7<br>ESL Section 8.5<br>PRML Section 9.1-9.5<br>UML Section 24.4 |
+| 13         | 10/31/2024 | Multi-Layer Perceptrons and Deep Learning | Slides TBD |   |
+| 14         | 05/11/2024 | Convolutional Neural Networks | Slides TBD |   |
+| 15         | 07/11/2024 | Recurrent Neural Networks | Slides TBD |   |
+| 16         | 12/11/2024 | Attention | Slides TBD |   |
+| 17         | 14/11/2024 | Graph Neural Networks | Slides TBD |   |
+| 18         | 19/11/2024 | Variational Auto-Encoders and Generative Adversarial Networks | Slides TBD |   |
+| 19         | 21/11/2024 | Flows | Slides TBD |   |
+| 20         | 26/11/2024 | Robustness<br> (Guest Lecture from [Dr. P Michael Furlong](https://furlong.gitlab.io/))  | Slides TBD |   |
+| 21         | 28/11/2024 | Privacy<br> (Guest Lecture from Saber Malekmohammadi) | Slides TBD |   |
+| 22         | 03/12/2024 | Fairness<br> (Guest Lecture from [Dr. Terrence C. Stewart](https://compneuro.uwaterloo.ca/people/terrence-c-stewart.html)) | Slides TBD |   |
 
 ### :mag: Assignments
 The four assignments will be posted here.
@@ -43,5 +52,3 @@ The four assignments will be posted here.
 | 2             | [Assignment 2](assignments/a2) | 30 September 2024 | ~~18 October 2024~~<br>21 October 2024 |
 | 3             | [Assignment 3](assignments/a3) | 23 October 2024 | 8 November 2024 |
 | 4             | TBD | 12 November 2024 (tentative) | 22 November 2024 (tentative) |
-
-
