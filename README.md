@@ -32,7 +32,7 @@ The suggested readings make use of the following abbreviations to refer to textb
 | 10         | 10/10/2024 | Decision Trees | [Slides](lectures/10_decision_trees.pdf)<br>[Video Lecture](https://youtu.be/2B-o3uB4OwI) | ESL Section 9.2<br>ISL Section 8.1<br>UML Section 10 |
 | 11         | 10/22/2024 | Ensemble Methods | [Slides](lectures/11_ensemble_methods.pdf) | PRML Section 3.2, 14<br>PML Section 18<br> ESL Section 7.1-7.3, 8.2, 8.7, 10.2, 10.10<br>ISL Section 8.1-8.2 |
 | 12         | 10/24/2024 | Expectation Maximization & Gaussian Mixture Models | [Slides](lectures/12_expectation_maximization.pdf) | PML Section 8.7<br>ESL Section 8.5<br>PRML Section 9.1-9.5<br>UML Section 24.4 |
-| 13         | 10/31/2024 | Multi-Layer Perceptrons and Deep Learning | Slides TBD |   |
+| 13         | 10/31/2024 | Multi-Layer Perceptrons and Deep Learning | Slides TBD | D2L Section 5<br>DL Section 6,7<br>ISL Section 10-10.3  |
 | 14         | 05/11/2024 | Convolutional Neural Networks | Slides TBD |   |
 | 15         | 07/11/2024 | Recurrent Neural Networks | Slides TBD |   |
 | 16         | 12/11/2024 | Attention | Slides TBD |   |
