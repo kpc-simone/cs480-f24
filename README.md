@@ -30,7 +30,7 @@ The suggested readings make use of the following abbreviations to refer to textb
 | 9a         | 08/10/2024 | Bayesian Inference | [Slides](lectures/09a_bayesian_inference)<br>[Video Lecture](https://youtu.be/TW1Qw1VIQWc) | PRML Section 3.1,3.3  |
 | 9b         | 10/10/2024 | Gaussian Processes | [Slides](lectures/09b_gaussian_processes.pdf)<br>[Video Lecture](https://youtu.be/NwuvpJkl83M)<br>[Sampling Animation](lectures/9b_sampling_animation.gif) | PRML Section 6.4<br>PML Section 17.2 |
 | 10         | 10/10/2024 | Decision Trees | [Slides](lectures/10_decision_trees.pdf)<br>[Video Lecture](https://youtu.be/2B-o3uB4OwI) | ESL Section 9.2<br>ISL Section 8.1<br>UML Section 10 |
-| 11         | 10/22/2024 | Ensemble Methods | [Slides](lectures/11_ensemble_methods.pdf) | PRML Section 3.2, 14<br>PML Section 18<br> ESL Section 7.1-7.3, 8.2, 8.7, 10.2, 10.10<br>ISL Section 8.1-8.2 |
+| 11         | 10/22/2024 | Ensemble Methods | [Slides](lectures/11_ensemble_methods.pdf)<br>[Video Lecture](https://youtu.be/ffmQSTBRqQw) | PRML Section 3.2, 14<br>PML Section 18<br> ESL Section 7.1-7.3, 8.2, 8.7, 10.2, 10.10<br>ISL Section 8.1-8.2 |
 | 12         | 10/24/2024 | Expectation Maximization & Gaussian Mixture Models | [Slides](lectures/12_expectation_maximization.pdf) | PML Section 8.7<br>ESL Section 8.5<br>PRML Section 9.1-9.5<br>UML Section 24.4 |
 | 13         | 10/31/2024 | Multi-Layer Perceptrons and Deep Learning | [Slides](lectures/13_mlp_deep_learning.pdf) | D2L Section 5<br>DL Section 6,7<br>ISL Section 10-10.2, 10.6  |
 | 14         | 05/11/2024 | Convolutional Neural Networks | Slides TBD | D2L Sections 7, 8, 12<br>DL Sections 8, 9<br>ISL Section 10.3|
