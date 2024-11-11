@@ -35,8 +35,8 @@ The suggested readings make use of the following abbreviations to refer to textb
 | 13         | 10/31/2024 | Multi-Layer Perceptrons and Deep Learning | [Slides](lectures/13_mlp_deep_learning.pdf)[Video Lecture](https://youtu.be/0A7XiKdWzA0) | D2L Section 5<br>DL Section 6,7<br>ISL Section 10-10.2, 10.6  |
 | 14         | 05/11/2024 | Convolutional Neural Networks | [Slides](lectures/14_convolutional_nets.pdf) | D2L Section 7<br>DL Section 9<br>ISL Section 10.3<br>[Fukushima, 1980](https://www.rctn.org/bruno/public/papers/Fukushima1980.pdf) |
 | 15         | 07/11/2024 | Recurrent Neural Networks | [Slides](lectures/15_recurrent_nets.pdf) | D2L Sections 9, 10<br>DL Section 10<br>ISL Section 10.5<br>[Voelker et al., 2019](https://proceedings.neurips.cc/paper/2019/file/952285b9b7e7a1be5aa7849f32ffff05-Paper.pdf) |
-| 16         | 12/11/2024 | Attention | Slides TBD |   |
-| 17         | 14/11/2024 | Graph Neural Networks | Slides TBD |   |
+| 16         | 12/11/2024 | Attention | Slides TBD | D2L Section 11<br>PML Section 15.4-15.7 |
+| 17         | 14/11/2024 | Advanced Optimization | Slides TBD | DL Section 8<br>D2L Section 12  |
 | 18         | 19/11/2024 | Variational Auto-Encoders and Generative Adversarial Networks | Slides TBD |   |
 | 19         | 21/11/2024 | Flows | Slides TBD |   |
 | 20         | 26/11/2024 | Robustness<br> (Guest Lecture from [Dr. P Michael Furlong](https://furlong.gitlab.io/))  | Slides TBD |   |
@@ -51,4 +51,4 @@ The four assignments will be posted here.
 | 1             | [Assignment 1](assignments/a1) | 11 September 2024 | 27 September 2024 |
 | 2             | [Assignment 2](assignments/a2) | 30 September 2024 | ~~18 October 2024~~<br>21 October 2024 |
 | 3             | [Assignment 3](assignments/a3) | 23 October 2024 | 8 November 2024 |
-| 4             | TBD | 12 November 2024 (tentative) | 22 November 2024 (tentative) |
+| 4             | [Assignment 4](assignments/a4) | 11 November 2024 | 29 November 2024 |
