@@ -16,6 +16,8 @@ The suggested readings make use of the following abbreviations to refer to textb
 
 **PRML**: [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/). *Christopher M. Bishop*
 
+**PML2**: [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) *Kevin P. Murphy*
+
 | LECTURE    | DATE | TITLE             | MATERIALS      |  SUPPLEMENTARY READINGS |
 | ---------- |---|----------------- |--------------- | --------- |
 | 0          | 05/09/2024 | Logistics & Introduction     | [Slides](lectures/00_introduction.pdf)<br>[Video Lecture](https://youtu.be/UpYhHUnzFDQ) | N/A       |
@@ -37,8 +39,8 @@ The suggested readings make use of the following abbreviations to refer to textb
 | 15         | 07/11/2024 | Recurrent Neural Networks | [Slides](lectures/15_recurrent_nets.pdf) | D2L Sections 9, 10<br>DL Section 10<br>ISL Section 10.5<br>[Voelker et al., 2019](https://proceedings.neurips.cc/paper/2019/file/952285b9b7e7a1be5aa7849f32ffff05-Paper.pdf)<br>[Andrej Karpathy's "The Unreasonable Effectiveness of RNNs"](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) |
 | 16         | 12/11/2024 | Attention | [Slides](lectures/16_attention_mechanisms.pdf) | D2L Section 11<br>PML Section 15.4-15.7<br>[Bahdanau et al., 2015](https://arxiv.org/pdf/1409.0473.pdf?utm_source=ColumnsChannel)<br>[Vaswani et al., 2018](https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf)<br>[Radford et al., 2018](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)<br>[Radford et al.s, 2019](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)<br>[Lilian Weng's "The Transformer Family"](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/) |
 | 17         | 14/11/2024 | Advanced Optimization | [Slides](lectures/17_advanced_optimization.pdf)<br>[Demo](lectures/autograd_demo.ipynb) | DL Section 8<br>D2L Section 12  |
-| 18         | 19/11/2024 | Variational Auto-Encoders and Generative Adversarial Networks | Slides TBD |   |
-| 19         | 21/11/2024 | Flows | Slides TBD |   |
+| 18         | 19/11/2024 | Variational Auto-Encoders and Normalizing Flows | Slides TBD | DL Section 14, 20.10.3<br>PML Section 19.3.6, 20.3<br>PML2 Section 20, 21, 23  |
+| 19         | 21/11/2024 | Generative Adversarial Networks and Diffusion Models | Slides TBD | D2L Section 20<br>DL Section 20.10.4<br>PML2 Section 25, 26  |
 | 20         | 26/11/2024 | Robustness<br> (Guest Lecture from [Dr. P Michael Furlong](https://furlong.gitlab.io/))  | Slides TBD |   |
 | 21         | 28/11/2024 | Privacy<br> (Guest Lecture from Saber Malekmohammadi) | Slides TBD |   |
 | 22         | 03/12/2024 | Fairness<br> (Guest Lecture from [Dr. Terrence C. Stewart](https://compneuro.uwaterloo.ca/people/terrence-c-stewart.html)) | Slides TBD |   |
