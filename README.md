@@ -42,7 +42,7 @@ The suggested readings make use of the following abbreviations to refer to textb
 | 18         | 19/11/2024 | Variational Auto-Encoders and Normalizing Flows | [Slides](lectures/18_dgm_vae_flows.pdf) | DL Section 14, 20.10.3<br>PML Section 19.3.6, 20.3<br>PML2 Section 20, 21, 23  |
 | 19         | 21/11/2024 | Generative Adversarial Networks and Diffusion Models | [Slides](lectures/19_dgm_gan_diffusion.pdf) | D2L Section 20<br>DL Section 20.10.4<br>PML2 Section 25, 26<br>[Goodfellow et al., 2014](https://arxiv.org/pdf/1406.2661)<br>[Ho et al., 2020](https://proceedings.neurips.cc/paper_files/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)  |
 | 20         | 26/11/2024 | Robustness<br> (Guest Lecture from [Dr. P Michael Furlong](https://furlong.gitlab.io/))  | [Slides](lectures/20_furlong_robustness.pdf)<br>[Video Lecture](https://youtu.be/5-3Ah9m2TfQ) | [Goodfellow et al., 2014](https://arxiv.org/pdf/1412.6572)<br>[Wiyatno, 2019](https://arxiv.org/pdf/1911.05268)<br>[OpenAI, 2021](https://openai.com/index/multimodal-neurons/)  |
-| 21         | 28/11/2024 | Privacy<br> (Guest Lecture from Saber Malekmohammadi) | Slides TBD |   |
+| 21         | 28/11/2024 | Differential Privacy<br> (Guest Lecture from Saber Malekmohammadi) | [Slides](lectures/21_malekmohammadi_differential_privacy.pdf) |   |
 | 22         | 03/12/2024 | Fairness<br> (Guest Lecture from [Dr. Terrence C. Stewart](https://compneuro.uwaterloo.ca/people/terrence-c-stewart.html)) | Slides TBD |   |
 
 ### :mag: Assignments
