@@ -1,5 +1,5 @@
 # Course Homepage for CS 480/680
-Fall 2024, University of Waterloo
+Fall 2024, University of Waterloo.
 
 ### :bulb: Lectures
 Lecture slides and video lectures (recorded offline) will be linked here. Please note that the topics and schedule for all future lectures are tentative.
